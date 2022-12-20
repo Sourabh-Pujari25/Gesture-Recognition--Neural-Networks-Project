@@ -1,8 +1,6 @@
 # Gesture-Recognition-Deep-Learning 
 Project to recognize hand gesture using neural networks.
 
-## Team
- Siva Prasad Thota & Sukumar Moharana.
  
 ## Problem Statement 
 We need to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
@@ -40,4 +38,6 @@ In this project, we have written our own batch data generator. After iterating o
 - Python
 - Pandas, Numpy, Matplotlib
 
-## Conclusion
+
+## Team
+Sourabh Pujari & Aishee Gosh
