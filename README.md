@@ -17,8 +17,6 @@ The training data consists of a few hundred videos categorised into one of the f
 
 Our task is to train different models on the 'train' folder to predict the action performed in each sequence or video and which performs well on the 'val' folder as well.  
 
-Dataset available @ https://drive.google.com/drive/folders/1rU_r0r4SStCiICTEslgjRrmNFAhx_-ON
-
 ## Model Overview
 We will be using two types of architectures for analysing videos using deep learning 
 1.	CNN + RNN architecture 
